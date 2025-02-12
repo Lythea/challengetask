@@ -1,0 +1,14 @@
+c:\Users\Ron\pyramid\bin\Debug\net8.0\pyramid.exe
+C:\Users\Ron\pyramid\bin\Debug\net8.0\pyramid.deps.json
+C:\Users\Ron\pyramid\bin\Debug\net8.0\pyramid.runtimeconfig.json
+c:\Users\Ron\pyramid\bin\Debug\net8.0\pyramid.dll
+c:\Users\Ron\pyramid\bin\Debug\net8.0\pyramid.pdb
+c:\Users\Ron\pyramid\obj\Debug\net8.0\pyramid.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ron\pyramid\obj\Debug\net8.0\pyramid.AssemblyInfoInputs.cache
+c:\Users\Ron\pyramid\obj\Debug\net8.0\pyramid.AssemblyInfo.cs
+c:\Users\Ron\pyramid\obj\Debug\net8.0\pyramid.csproj.CoreCompileInputs.cache
+c:\Users\Ron\pyramid\obj\Debug\net8.0\pyramid.dll
+c:\Users\Ron\pyramid\obj\Debug\net8.0\refint\pyramid.dll
+c:\Users\Ron\pyramid\obj\Debug\net8.0\pyramid.pdb
+C:\Users\Ron\pyramid\obj\Debug\net8.0\pyramid.genruntimeconfig.cache
+C:\Users\Ron\pyramid\obj\Debug\net8.0\ref\pyramid.dll
